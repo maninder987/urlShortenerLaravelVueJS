@@ -1,4 +1,4 @@
-# Todo list Made With Vuex
+# Url Shortener Using Laravel 8 + Vuejs
 
 
 ##Demo
